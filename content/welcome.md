@@ -2,7 +2,7 @@
 title: "Let's rock!"
 cover: "1.jpg"
 category: "personal"
-date: "2018-10-01"
+date: "2019-01-01"
 slug: "Welcome-Mesage"
 tags:
     - personal

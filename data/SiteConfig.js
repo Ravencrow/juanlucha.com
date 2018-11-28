@@ -3,7 +3,7 @@ module.exports = {
   siteTitleShort: "Juan Lucha", // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation.
   siteTitleAlt: "Juan Lucha: Software Developer", // Alternative site title for SEO.
   siteLogo: "/logos/logo-1024.png", // Logo used for SEO and manifest.
-  siteUrl: "http://juanlucha.com", // Domain of your website without pathPrefix.
+  siteUrl: "https://juanlucha.com", // Domain of your website without pathPrefix.
   pathPrefix: "/juanlucha.com", // Prefixes all links. For cases when deployed to example.github.io/gatsby-material-starter/.
   fixedFooter: false, // Whether the footer component is fixed, i.e. always visible
   siteDescription: "Developer tips with a geeky flavor", // Website description used for RSS feeds/meta description tag.
